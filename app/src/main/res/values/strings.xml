@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TitanaRadioStreaming</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Ini adalah Fragment 1</string>
+
+    <string name="partisipasi">
+        Anda bisa mengirimkan saran atau kritik yang membangun
+        via SMS, Whatsapp atau Telegram dengan mengetik SARAN (spasi) isi saran
+        ke nomor 081805775489
+        Anda juga bisa mengirimkan SMS, Whatsapp atau Telegram
+        pertanyaan diacara-acara interaktif kirim ke nomer 081805775489
+
+        ikuti juga fanpage kami di :
+        https://facebook.com/titanaradiostreaming/
+        untuk mendapatkan informasi terbaru
+    </string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_streaming"
+            android:icon="@drawable/ic_mic"
+            android:title="Streaming" />
+        <item
+            android:id="@+id/nav_program_unggulan"
+            android:icon="@drawable/ic_program_unggulan"
+            android:title="Program Unggulan" />
+        <item
+            android:id="@+id/nav_jadwal"
+            android:icon="@drawable/ic_jadwal"
+            android:title="Jadwal" />
+        <item
+            android:id="@+id/nav_narasumber"
+            android:icon="@drawable/ic_group_"
+            android:title="Narasumber" />
+        <item
+            android:id="@+id/nav_partisipasi"
+            android:icon="@drawable/ic_forum"
+            android:title="Partisipasi" />
+        <item
+            android:id="@+id/nav_berita"
+            android:icon="@drawable/ic_berita"
+            android:title="berita" />
+        <item
+            android:id="@+id/nav_tentang"
+            android:icon="@drawable/ic_info"
+            android:title="Tentang" />
+    </group>
+
+</menu>
