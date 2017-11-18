@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tunjangsasaq/Downloads/TitanaRadioStreaming/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b27bd71030002a1d2407c8943a0112f32ba6f39">
+        <dex dex="/Users/tunjangsasaq/Downloads/TitanaRadioStreaming/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0a896988312bfe87557c9d2c7da3c0afe92c16d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tunjangsasaq/Downloads/TitanaRadioStreaming/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tunjangsasaq/Downloads/TitanaRadioStreaming/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e339ffa069e20fc9accc605b3477691d73401013/classes.dex" />
+    </item>
+
+</items>
